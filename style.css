@@ -1,3 +1,6 @@
 body{
     font: 1em, system-ui;
 }
+.topbar{
+    background-color: rgb(0, 0, 0);
+}
